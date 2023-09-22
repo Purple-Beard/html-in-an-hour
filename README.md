@@ -12,13 +12,6 @@
 
 ## HTML History
 
-Take students through a brief history of HTML use this [web book](https://www.w3.org/People/Raggett/book4/ch02.html) from w3.org as a resource if students want more info
-
-### Summary
-
-- HTML has grown from its conception in the early 1990s
-- HTML was invented by Tim Berners-Lee in 1989 at CERN
-
 > Tim was working in a computing services section of CERN when he came up with the concept; at the time he had no idea that it would be implemented on such an enormous scale. ... Tim had the idea of enabling researchers from remote sites in the world to organize and pool together information. But far from simply making available a large number of research documents as files that could be downloaded to individual computers, he suggested that you could actually link the text in the files themselves.
 >
 > In other words, there could be cross-references from one research paper to another. This would mean that while reading one research paper, you could quickly display part of another paper that holds directly relevant text or diagrams. Documentation of a scientific and mathematical nature would thus be represented as a `web' of information held in electronic form on computers across the world.
@@ -30,6 +23,12 @@ Take students through a brief history of HTML use this [web book](https://www.w3
 Source: [History of the web online book](https://www.w3.org/People/Raggett/book4/ch02.html)
 
 This was the start of the journey to the web we see today and use ubiquitously every day.
+
+### Summary
+
+- HTML has grown from its conception in the early 1990s
+- HTML was invented by Tim Berners-Lee in 1989 at CERN
+
 
 ## Outline of the Web Today
 
